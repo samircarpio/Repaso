@@ -1,0 +1,3 @@
+crear un programa q solicite un usuario ingrese una palabra para luego mostrarlo por pantalla
+a=input("ingrese una palabra");
+  print(a);
